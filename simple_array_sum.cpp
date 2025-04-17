@@ -10,7 +10,6 @@ int main(){
         cin >> numeros[i];
         resultado += numeros[i];
     }
-
     cout << resultado << endl;
     return 0;
 }
