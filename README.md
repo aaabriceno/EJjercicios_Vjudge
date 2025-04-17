@@ -1,4 +1,4 @@
-# EJjercicios_Vjudge
+# Ejercicios_Vjudge
 Ejercicios Vjudge
 Desde los mas Faciles hasta los mas Dificiles
 
